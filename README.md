@@ -1,6 +1,6 @@
-# Scheduler Module POC
+# Scheduler
 
-This POC has the purpose of scheduling tasks and functions using the 'schedule' python package.
+This repository has the purpose of scheduling tasks and functions using the 'schedule' python package.
 
 ## Installation
 
