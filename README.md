@@ -4,11 +4,13 @@ This repository has the purpose of scheduling tasks and functions using the 'sch
 
 ## Installation
 
-Install the package with pip requirements.txt
+Install the package with 
+
+`pip install requirements.txt `
 
 ## Running
 
-Inside the scheduler_poc directory, run:
+Inside the scheduler directory, run:
 
 `python app.py`
 
